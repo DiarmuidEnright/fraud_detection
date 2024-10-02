@@ -7,12 +7,6 @@ This project aims to analyze transaction data, perform feature engineering, dete
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Models and Techniques](#models-and-techniques)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
